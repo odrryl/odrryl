@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/66/6c/72/666c72aa8a73f6b15a1fc39224f601f0.gif" alt="Hello GIF" width="800px" height="250px">
+<img src="https://i.pinimg.com/originals/66/6c/72/666c72aa8a73f6b15a1fc39224f601f0.gif" alt="Hello GIF" width="600px" height="200px">
 
 # Hi, I'm Daryna! 👋
  

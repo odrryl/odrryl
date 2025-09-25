@@ -14,5 +14,5 @@ I am a junior front-end developer, fueled by a deep-seated curiosity for technol
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at National Technical University "KhPI".
+- 🎓 Completed Master's degree in Computer Science with honors at the National Technical University "KhPI".
 - 🍋 Graduated from Lemon School courses "FRONT-END (HTML/CSS + JS)".

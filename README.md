@@ -10,7 +10,7 @@ I am a junior front-end developer, fueled by a deep-seated curiosity for technol
 
   </div>
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Master of Computer Science.
 - 🍋 Graduated from Lemon School courses "FRONT-END (HTML/CSS + JS)".

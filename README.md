@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/🍋_Lemon%20School-Front--End%20(HTML%2FCSS%2BJS)-EF474D?style=for-the-badge&labelColor=050505" alt="Lemon School"/>
 </div>
 <br> 
+<br><br>
 <img src="https://readme-typing-svg.demolab.com/?font=Unbounded&weight=500&size=22&duration=1&pause=999999&color=FEFEFE&width=420&height=40&repeat=false&lines=About+Me" alt="About Me" /> 
 I'm a junior front-end developer, fueled by a deep-seated curiosity for technology and a genuine passion for crafting user-friendly web interfaces. My journey is a continuous quest for learning, experimenting with ideas, and contributing to the developer community. <br><br> 
 
